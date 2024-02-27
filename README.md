@@ -1,6 +1,5 @@
 # repositorio-com-readme
-     # Título de nível 1 cria um título de nível 1.
-    ## Título de nível 2 cria um título de nível 2.
+   
    ### Título de nível 3 cria um título de nível 3.
 
 **negrito**
